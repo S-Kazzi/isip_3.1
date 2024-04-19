@@ -1,0 +1,15 @@
+D:\Kaziev\rep\isip_3.1\Hello\bin\Debug\net8.0\Hello.exe
+D:\Kaziev\rep\isip_3.1\Hello\bin\Debug\net8.0\Hello.deps.json
+D:\Kaziev\rep\isip_3.1\Hello\bin\Debug\net8.0\Hello.runtimeconfig.json
+D:\Kaziev\rep\isip_3.1\Hello\bin\Debug\net8.0\Hello.dll
+D:\Kaziev\rep\isip_3.1\Hello\bin\Debug\net8.0\Hello.pdb
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.AssemblyInfoInputs.cache
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.AssemblyInfo.cs
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.csproj.CoreCompileInputs.cache
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.sourcelink.json
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.dll
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\refint\Hello.dll
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.pdb
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\Hello.genruntimeconfig.cache
+D:\Kaziev\rep\isip_3.1\Hello\obj\Debug\net8.0\ref\Hello.dll
